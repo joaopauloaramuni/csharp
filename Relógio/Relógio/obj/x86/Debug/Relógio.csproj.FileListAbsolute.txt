@@ -1,0 +1,9 @@
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Relógio\Relógio\bin\Debug\Relógio.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Relógio\Relógio\bin\Debug\Relógio.pdb
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Relógio\Relógio\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Relógio\Relógio\obj\x86\Debug\Relógio.Form1.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Relógio\Relógio\obj\x86\Debug\Relógio.Properties.Resources.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Relógio\Relógio\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Relógio\Relógio\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Relógio\Relógio\obj\x86\Debug\Relógio.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Relógio\Relógio\obj\x86\Debug\Relógio.pdb

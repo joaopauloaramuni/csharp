@@ -1,0 +1,9 @@
+C:\Users\joao\Desktop\MountyHall\MountyHall\bin\Debug\MountyHall.exe
+C:\Users\joao\Desktop\MountyHall\MountyHall\bin\Debug\MountyHall.pdb
+C:\Users\joao\Desktop\MountyHall\MountyHall\obj\x86\Debug\MountyHall.Form1.resources
+C:\Users\joao\Desktop\MountyHall\MountyHall\obj\x86\Debug\MountyHall.Properties.Resources.resources
+C:\Users\joao\Desktop\MountyHall\MountyHall\obj\x86\Debug\MountyHall.csproj.GenerateResource.Cache
+C:\Users\joao\Desktop\MountyHall\MountyHall\obj\x86\Debug\MountyHall.exe
+C:\Users\joao\Desktop\MountyHall\MountyHall\obj\x86\Debug\MountyHall.pdb
+F:\Samsung\PROJETOS\C#\MountyHall\MountyHall\obj\x86\Debug\MountyHall.exe
+F:\Samsung\PROJETOS\C#\MountyHall\MountyHall\obj\x86\Debug\MountyHall.pdb
