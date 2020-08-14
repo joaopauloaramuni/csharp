@@ -1,0 +1,9 @@
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Esfera\Esfera\bin\Debug\Esfera.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Esfera\Esfera\bin\Debug\Esfera.pdb
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Esfera\Esfera\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Esfera\Esfera\obj\x86\Debug\Esfera.Form1.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Esfera\Esfera\obj\x86\Debug\Esfera.Properties.Resources.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Esfera\Esfera\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Esfera\Esfera\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Esfera\Esfera\obj\x86\Debug\Esfera.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Esfera\Esfera\obj\x86\Debug\Esfera.pdb

@@ -1,0 +1,9 @@
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Email\Email\bin\Debug\Email.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Email\Email\bin\Debug\Email.pdb
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Email\Email\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Email\Email\obj\x86\Debug\Email.Form1.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Email\Email\obj\x86\Debug\Email.Properties.Resources.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Email\Email\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Email\Email\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Email\Email\obj\x86\Debug\Email.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Email\Email\obj\x86\Debug\Email.pdb

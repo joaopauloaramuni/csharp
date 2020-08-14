@@ -1,0 +1,18 @@
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Gerador\Gerador\bin\Debug\Gerador.exe
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Gerador\Gerador\bin\Debug\Gerador.pdb
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Gerador\Gerador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Gerador\Gerador\obj\x86\Debug\Gerador.Properties.Resources.resources
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Gerador\Gerador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Gerador\Gerador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Gerador\Gerador\obj\x86\Debug\Gerador.exe
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Gerador\Gerador\obj\x86\Debug\Gerador.pdb
+C:\Joao\Projetos\C#\Gerador\Gerador\obj\x86\Debug\Gerador.exe
+C:\Joao\Projetos\C#\Gerador\Gerador\obj\x86\Debug\Gerador.pdb
+C:\Joao\Projetos\C#\Gerador\Gerador\bin\Debug\Gerador.exe
+C:\Joao\Projetos\C#\Gerador\Gerador\bin\Debug\Gerador.pdb
+C:\Joao\Projetos\C#\Gerador\Gerador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Joao\Projetos\C#\Gerador\Gerador\obj\x86\Debug\Gerador.Form1.resources
+C:\Joao\Projetos\C#\Gerador\Gerador\obj\x86\Debug\Gerador.Properties.Resources.resources
+C:\Joao\Projetos\C#\Gerador\Gerador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Joao\Projetos\C#\Gerador\Gerador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Gerador\Gerador\obj\x86\Debug\Gerador.Form1.resources
