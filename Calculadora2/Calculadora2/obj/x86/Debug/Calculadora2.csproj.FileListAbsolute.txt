@@ -1,0 +1,20 @@
+c:\users\jp\documents\visual studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jp\documents\visual studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\Calculadora2.Form1.resources
+c:\users\jp\documents\visual studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\Calculadora2.Properties.Resources.resources
+c:\users\jp\documents\visual studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jp\documents\visual studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jp\documents\visual studio 2010\Projects\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+c:\users\jp\documents\visual studio 2010\Projects\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+c:\users\jp\documents\visual studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\Calculadora2.exe
+c:\users\jp\documents\visual studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\Calculadora2.pdb
+C:\Users\jparamuni.ALAMO\Documents\C#\Calculadora2\Calculadora2\obj\x86\Debug\Calculadora2.exe
+C:\Users\jparamuni.ALAMO\Documents\C#\Calculadora2\Calculadora2\obj\x86\Debug\Calculadora2.pdb
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\Calculadora2.exe
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\Calculadora2.pdb
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\Calculadora2.Form1.resources
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\Calculadora2.Properties.Resources.resources
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Calculadora2\Calculadora2\obj\x86\Debug\GenerateResource.write.1.tlog
