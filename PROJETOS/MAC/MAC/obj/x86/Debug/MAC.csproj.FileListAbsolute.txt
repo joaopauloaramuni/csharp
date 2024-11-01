@@ -1,0 +1,9 @@
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MAC\MAC\bin\Debug\MAC.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MAC\MAC\bin\Debug\MAC.pdb
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MAC\MAC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MAC\MAC\obj\x86\Debug\MAC.Form1.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MAC\MAC\obj\x86\Debug\MAC.Properties.Resources.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MAC\MAC\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MAC\MAC\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MAC\MAC\obj\x86\Debug\MAC.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MAC\MAC\obj\x86\Debug\MAC.pdb

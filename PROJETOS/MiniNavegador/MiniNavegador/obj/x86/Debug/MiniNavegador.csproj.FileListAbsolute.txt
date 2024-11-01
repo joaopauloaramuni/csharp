@@ -1,0 +1,9 @@
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MiniNavegador\MiniNavegador\bin\Debug\MiniNavegador.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MiniNavegador\MiniNavegador\bin\Debug\MiniNavegador.pdb
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MiniNavegador\MiniNavegador\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MiniNavegador\MiniNavegador\obj\x86\Debug\MiniNavegador.Form1.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MiniNavegador\MiniNavegador\obj\x86\Debug\MiniNavegador.Properties.Resources.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MiniNavegador\MiniNavegador\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MiniNavegador\MiniNavegador\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MiniNavegador\MiniNavegador\obj\x86\Debug\MiniNavegador.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MiniNavegador\MiniNavegador\obj\x86\Debug\MiniNavegador.pdb

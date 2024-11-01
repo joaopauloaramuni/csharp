@@ -1,0 +1,9 @@
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Hexa\Hexa\bin\Debug\Hexa.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Hexa\Hexa\bin\Debug\Hexa.pdb
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Hexa\Hexa\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Hexa\Hexa\obj\x86\Debug\Hexa.Form1.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Hexa\Hexa\obj\x86\Debug\Hexa.Properties.Resources.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Hexa\Hexa\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Hexa\Hexa\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Hexa\Hexa\obj\x86\Debug\Hexa.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Hexa\Hexa\obj\x86\Debug\Hexa.pdb
