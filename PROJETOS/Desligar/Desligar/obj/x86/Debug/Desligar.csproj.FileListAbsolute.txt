@@ -1,0 +1,20 @@
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Desligar\Desligar\bin\Debug\Desligar.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Desligar\Desligar\bin\Debug\Desligar.pdb
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Desligar\Desligar\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Desligar\Desligar\obj\x86\Debug\Desligar.Form1.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Desligar\Desligar\obj\x86\Debug\Desligar.Properties.Resources.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Desligar\Desligar\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Desligar\Desligar\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Desligar\Desligar\obj\x86\Debug\Desligar.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Desligar\Desligar\obj\x86\Debug\Desligar.pdb
+C:\Users\jparamuni.ALAMO\Documents\C#\Desligar\Desligar\obj\x86\Debug\Desligar.exe
+C:\Users\jparamuni.ALAMO\Documents\C#\Desligar\Desligar\obj\x86\Debug\Desligar.pdb
+C:\Users\jparamuni.ALAMO\Documents\C#\Desligar\Desligar\bin\Debug\Desligar.exe
+C:\Users\jparamuni.ALAMO\Documents\C#\Desligar\Desligar\bin\Debug\Desligar.pdb
+C:\Users\jparamuni.ALAMO\Documents\C#\Desligar\Desligar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jparamuni.ALAMO\Documents\C#\Desligar\Desligar\obj\x86\Debug\Desligar.Form1.resources
+C:\Users\jparamuni.ALAMO\Documents\C#\Desligar\Desligar\obj\x86\Debug\Desligar.Properties.Resources.resources
+C:\Users\jparamuni.ALAMO\Documents\C#\Desligar\Desligar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jparamuni.ALAMO\Documents\C#\Desligar\Desligar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Joao\Projetos\C#\Desligar\Desligar\obj\x86\Debug\Desligar.exe
+C:\Joao\Projetos\C#\Desligar\Desligar\obj\x86\Debug\Desligar.pdb

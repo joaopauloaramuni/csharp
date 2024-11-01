@@ -1,0 +1,14 @@
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\obj\x86\Debug\DespertadorProgramavel.csproj.ResolveComReference.cache
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\obj\x86\Debug\DespertadorProgramavel.Form1.resources
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\obj\x86\Debug\DespertadorProgramavel.Properties.Resources.resources
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\bin\Debug\DespertadorProgramavel.exe
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\bin\Debug\DespertadorProgramavel.pdb
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\bin\Debug\Interop.WMPLib.dll
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\bin\Debug\AxInterop.WMPLib.dll
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\obj\x86\Debug\DespertadorProgramavel.exe
+c:\users\jp\documents\visual studio 2010\Projects\DespertadorProgramavel\DespertadorProgramavel\obj\x86\Debug\DespertadorProgramavel.pdb
