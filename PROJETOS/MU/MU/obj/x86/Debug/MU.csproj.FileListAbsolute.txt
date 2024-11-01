@@ -1,0 +1,29 @@
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MU\MU\bin\Debug\MU.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MU\MU\bin\Debug\MU.pdb
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MU\MU\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MU\MU\obj\x86\Debug\MU.Form1.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MU\MU\obj\x86\Debug\MU.Properties.Resources.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MU\MU\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MU\MU\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MU\MU\obj\x86\Debug\MU.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\MU\MU\obj\x86\Debug\MU.pdb
+F:\PROJETOS\C#\MU\MU\obj\x86\Debug\MU.exe
+F:\PROJETOS\C#\MU\MU\obj\x86\Debug\MU.pdb
+F:\PROJETOS\C#\MU\MU\bin\Debug\MU.exe
+F:\PROJETOS\C#\MU\MU\bin\Debug\MU.pdb
+F:\PROJETOS\C#\MU\MU\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROJETOS\C#\MU\MU\obj\x86\Debug\MU.Form1.resources
+F:\PROJETOS\C#\MU\MU\obj\x86\Debug\MU.Properties.Resources.resources
+F:\PROJETOS\C#\MU\MU\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROJETOS\C#\MU\MU\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\MU\MU\obj\x86\Debug\MU.Help.resources
+C:\Joao\Projetos\C#\MU\MU\obj\x86\Debug\MU.exe
+C:\Joao\Projetos\C#\MU\MU\obj\x86\Debug\MU.pdb
+C:\Joao\Projetos\C#\MU\MU\bin\Debug\MU.exe
+C:\Joao\Projetos\C#\MU\MU\bin\Debug\MU.pdb
+C:\Joao\Projetos\C#\MU\MU\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Joao\Projetos\C#\MU\MU\obj\x86\Debug\MU.Form1.resources
+C:\Joao\Projetos\C#\MU\MU\obj\x86\Debug\MU.Help.resources
+C:\Joao\Projetos\C#\MU\MU\obj\x86\Debug\MU.Properties.Resources.resources
+C:\Joao\Projetos\C#\MU\MU\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Joao\Projetos\C#\MU\MU\obj\x86\Debug\GenerateResource.write.1.tlog
