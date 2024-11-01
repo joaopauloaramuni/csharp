@@ -1,0 +1,27 @@
+c:\users\jp\documents\visual studio 2010\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\jp\documents\visual studio 2010\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\jp\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jp\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+c:\users\jp\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+c:\users\jp\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jp\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jp\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.exe
+c:\users\jp\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.pdb
+C:\Users\JP\Documents\PROJETOS\C#\Snake\Snake\obj\x86\Debug\Snake.exe
+C:\Users\JP\Documents\PROJETOS\C#\Snake\Snake\obj\x86\Debug\Snake.pdb
+C:\Users\JP\Documents\PROJETOS\C#\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\JP\Documents\PROJETOS\C#\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\JP\Documents\PROJETOS\C#\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JP\Documents\PROJETOS\C#\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+C:\Users\JP\Documents\PROJETOS\C#\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\JP\Documents\PROJETOS\C#\Snake\Snake\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JP\Documents\PROJETOS\C#\Snake\Snake\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PROJETOS\C#\Snake\Snake\obj\x86\Debug\Snake.exe
+F:\PROJETOS\C#\Snake\Snake\obj\x86\Debug\Snake.pdb
+F:\PROJETOS\C#\Snake\Snake\bin\Debug\Snake.exe
+F:\PROJETOS\C#\Snake\Snake\bin\Debug\Snake.pdb
+F:\PROJETOS\C#\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROJETOS\C#\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+F:\PROJETOS\C#\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+F:\PROJETOS\C#\Snake\Snake\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROJETOS\C#\Snake\Snake\obj\x86\Debug\GenerateResource.write.1.tlog

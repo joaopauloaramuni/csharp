@@ -1,0 +1,18 @@
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Txt\Txt\bin\Debug\Txt.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Txt\Txt\bin\Debug\Txt.pdb
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Txt\Txt\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Txt\Txt\obj\x86\Debug\Txt.Form1.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Txt\Txt\obj\x86\Debug\Txt.Properties.Resources.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Txt\Txt\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Txt\Txt\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Txt\Txt\obj\x86\Debug\Txt.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Txt\Txt\obj\x86\Debug\Txt.pdb
+C:\Users\jparamuni.ALAMO\Documents\C#\Txt\Txt\obj\x86\Debug\Txt.exe
+C:\Users\jparamuni.ALAMO\Documents\C#\Txt\Txt\obj\x86\Debug\Txt.pdb
+C:\Users\jparamuni.ALAMO\Documents\C#\Txt\Txt\bin\Debug\Txt.exe
+C:\Users\jparamuni.ALAMO\Documents\C#\Txt\Txt\bin\Debug\Txt.pdb
+C:\Users\jparamuni.ALAMO\Documents\C#\Txt\Txt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jparamuni.ALAMO\Documents\C#\Txt\Txt\obj\x86\Debug\Txt.Form1.resources
+C:\Users\jparamuni.ALAMO\Documents\C#\Txt\Txt\obj\x86\Debug\Txt.Properties.Resources.resources
+C:\Users\jparamuni.ALAMO\Documents\C#\Txt\Txt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jparamuni.ALAMO\Documents\C#\Txt\Txt\obj\x86\Debug\GenerateResource.write.1.tlog

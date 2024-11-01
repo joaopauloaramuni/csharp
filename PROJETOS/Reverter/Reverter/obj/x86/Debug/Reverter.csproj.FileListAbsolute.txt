@@ -1,0 +1,11 @@
+c:\users\jp\documents\visual studio 2010\Projects\Reverter\Reverter\bin\Debug\Reverter.exe
+c:\users\jp\documents\visual studio 2010\Projects\Reverter\Reverter\bin\Debug\Reverter.pdb
+c:\users\jp\documents\visual studio 2010\Projects\Reverter\Reverter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jp\documents\visual studio 2010\Projects\Reverter\Reverter\obj\x86\Debug\Reverter.Form1.resources
+c:\users\jp\documents\visual studio 2010\Projects\Reverter\Reverter\obj\x86\Debug\Reverter.Properties.Resources.resources
+c:\users\jp\documents\visual studio 2010\Projects\Reverter\Reverter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jp\documents\visual studio 2010\Projects\Reverter\Reverter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jp\documents\visual studio 2010\Projects\Reverter\Reverter\obj\x86\Debug\Reverter.exe
+c:\users\jp\documents\visual studio 2010\Projects\Reverter\Reverter\obj\x86\Debug\Reverter.pdb
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Reverter\Reverter\obj\x86\Debug\Reverter.exe
+C:\Users\jparamuni.ALAMO\Documents\Visual Studio 2010\Projects\Reverter\Reverter\obj\x86\Debug\Reverter.pdb
