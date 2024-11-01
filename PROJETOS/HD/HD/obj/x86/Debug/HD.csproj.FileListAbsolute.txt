@@ -1,0 +1,9 @@
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\HD\HD\bin\Debug\HD.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\HD\HD\bin\Debug\HD.pdb
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\HD\HD\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\HD\HD\obj\x86\Debug\HD.Form1.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\HD\HD\obj\x86\Debug\HD.Properties.Resources.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\HD\HD\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\HD\HD\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\HD\HD\obj\x86\Debug\HD.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\HD\HD\obj\x86\Debug\HD.pdb
