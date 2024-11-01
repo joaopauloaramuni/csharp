@@ -1,0 +1,12 @@
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda.mdf
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda_log.ldf
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda.exe.config
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda.pdb
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.Form1.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.Properties.Resources.resources
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.exe
+c:\users\jparamuni.alamo\documents\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.pdb
