@@ -7,7 +7,9 @@
         </tr> 
         <tr>
             <td>
-                <img alt="alamoti" src="https://joaopauloaramuni.github.io/image/alamoti-logo.png?raw=true"/>
+                <a href="https://alamoti.net/">
+                    <img alt="alamoti" src="https://joaopauloaramuni.github.io/image/alamoti-logo.png?raw=true"/>
+                </a>
             </td>
         </tr>
         <tr>
